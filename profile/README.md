@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.base44.com/images/public/6a71cae79372a9b739f30396/540ca9187_logo.png" alt="Data Priorities logo" width="140"/>
+<img src="https://media.base44.com/images/public/user_6a71c0de305dc2660e95bd40/2134c688f_DataPrioritiesLogoWhitebackground.png" alt="Data Priorities logo" width="140"/>
 
 # Data Priorities
 
