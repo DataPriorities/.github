@@ -44,5 +44,5 @@ We help businesses grow by delivering practical AI, data analytics, and software
 - 📄 Case studies: [datapriorities.com/case-studies](https://www.datapriorities.com/case-studies)
 
 <div align="center">
-<sub>© Data Priorities Pte. Ltd. — Singapore</sub>
+<sub>© Data Priorities Pte. Ltd. — Singapore (UEN: 202632334D)</sub>
 </div>
