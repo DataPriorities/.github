@@ -36,6 +36,7 @@ We help businesses grow by delivering practical AI, data analytics, and software
 | 💻 **Software Development** | Custom, production-grade software built around your needs |
 | ⚙️ **Automation** | Streamlining workflows to save time and reduce error |
 | 🚀 **Digital Transformation** | Modernizing how organizations operate and compete |
+| 🔐 **Cyber Security**  | Defensive security for data, applications and AI systems  |
 
 ## Get in touch
 
@@ -44,5 +45,5 @@ We help businesses grow by delivering practical AI, data analytics, and software
 - 📄 Case studies: [datapriorities.com/case-studies](https://www.datapriorities.com/case-studies)
 
 <div align="center">
-<sub>© Data Priorities Pte. Ltd. — Singapore (UEN: 202632334D)</sub>
+<sub>© Data Priorities Pte. Ltd. — Singapore 🇸🇬 (UEN: 202632334D)</sub>
 </div>
